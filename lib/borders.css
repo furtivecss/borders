@@ -1,0 +1,7 @@
+.brdr--rounded { border-radius: var(--border-radius, .5rem); }
+.brdr--square  { border-radius: 0;                           }
+
+.brdr--light-gray { border: thin solid var(--light-gray, #d8d8d8); }
+.brdr--mid-gray   { border: thin solid var(--mid-gray, #909090);   }
+.brdr--dark-gray  { border: thin solid var(--dark-gray, #484848);  }
+.brdr--off-white  { border: thin solid var(--off-white, #fafafa);  }

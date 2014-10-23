@@ -2,8 +2,6 @@
 
 A CSS module for borders with rework. Used in [furtive.css](http://furtive.co).
 
-<http://caniuse.com/#search=flex>
-
 ## Installation
 
 It's recommended to use [rework-npm](https://github.com/reworkcss/rework-npm):
